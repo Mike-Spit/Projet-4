@@ -90,6 +90,10 @@ body {
   font-size: 14px;
 }
 
+#about-me a {
+  color: #000;
+}
+
 #gallery {
   min-height: 100vh;
 }
@@ -108,7 +112,7 @@ body {
 }
 
 .active-tag {
-  color: #fff !important;
+  color: black !important;
   background-color: #beb45a !important;
   border-radius: 0 !important;
 }
